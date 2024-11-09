@@ -1,0 +1,28 @@
+.whatsapp{
+    font-size: 50px;
+    color: green;
+    padding: 50px;
+    
+    background-color: white;
+}
+.facebook{
+    font-size: 50px;
+    color: rgb(19, 0, 128);
+    padding: 50px;
+    
+    background-color: white);
+}
+.instagram{
+    font-size: 50px;
+    color: red;
+    padding: 50px;
+    
+    background-color: white;
+}
+.snapchat{
+    font-size: 50px;
+    color: yellow;
+    padding: 50px;
+    
+    background-color: white;
+}
